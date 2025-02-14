@@ -20,7 +20,6 @@ Cargo.lock
 *.trie
 
 .idea/
-.vscode/
 
 # Exclude Mac generated files
 .DS_Store
@@ -38,3 +37,5 @@ sdk/python/dist/
 sdk/python/ragflow_sdk.egg-info/
 huggingface.co/
 nltk_data/
+config.bat
+node_modules
